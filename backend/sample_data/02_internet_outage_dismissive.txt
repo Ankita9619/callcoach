@@ -1,0 +1,13 @@
+# Title: Internet outage – dismissive handling
+# Agent: Mark
+Agent: Yeah, support.
+Customer: Hi, my internet has been down since yesterday evening and I work from home. This is really unacceptable.
+Agent: Did you restart the router?
+Customer: Yes, three times. The light is red.
+Agent: Well, you should have checked the outage page before calling. There's work in your area.
+Customer: I did check it, it says there's no outage. This is ridiculous.
+Agent: Look, calm down. There's nothing I can do if the system says there's no outage.
+Customer: Can you at least send a technician?
+Agent: You'd have to call back later, the technician team is busy.
+Customer: This is a complete waste of time. I want to make a complaint.
+Agent: Okay. Bye.

@@ -1,0 +1,13 @@
+# Title: Cancelled flight – rebooking after complaint
+# Agent: Priya
+Agent: Good afternoon, thank you for calling SkyWays. My name is Priya. Please note this call is being recorded. How may I help you?
+Customer: My flight to Lisbon was cancelled two hours before departure and nobody told me anything. I've been stuck at the airport. This is the worst airline I've ever used.
+Agent: I'm really sorry, that sounds frustrating, and I can imagine how exhausting it must be to be stuck at the airport. I'll do everything I can to get you moving. Could you confirm your booking reference and your last name so I can verify the booking?
+Customer: It's KX7P2L, last name Fischer.
+Agent: Thank you, Mr Fischer, I've found it. I can see the cancellation was due to a technical issue with the aircraft. I apologise that you weren't notified.
+Customer: Fine. So what now?
+Agent: I've booked you on the 18:40 flight to Lisbon this evening at no extra cost, and I've arranged a meal voucher worth 25 euros, which you can collect at desk 12. You'll get a confirmation email with your new boarding pass. You're also entitled to compensation, and I've opened a claim for you with reference number CL-20931.
+Customer: Okay... that's actually really helpful. Thank you, I appreciate it.
+Agent: Of course. Is there anything else I can help you with?
+Customer: No, that's perfect. Thanks, Priya.
+Agent: Thank you for your patience, Mr Fischer. Have a safe flight and take care.
