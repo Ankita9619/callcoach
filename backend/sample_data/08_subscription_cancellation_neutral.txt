@@ -1,0 +1,11 @@
+# Title: Gym membership cancellation request
+# Agent: Mark
+Agent: Hi, this is Mark at FitLife. How can I help you?
+Customer: I'd like to cancel my membership, I'm moving to another city.
+Agent: Okay, I understand. Can I confirm your membership number?
+Customer: FL-20077.
+Agent: Thanks. Your contract has a one-month notice period, so the last payment will be on the 1st of December. I've processed the cancellation and you'll receive a confirmation email.
+Customer: Okay, fine.
+Agent: Is there anything else?
+Customer: No.
+Agent: Alright, take care.

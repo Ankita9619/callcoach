@@ -1,0 +1,13 @@
+# Title: Late parcel delivery – tracking update
+# Agent: Lena
+Agent: Hello, you're speaking with Lena from ParcelPoint. How can I help?
+Customer: Hi, my parcel was supposed to arrive on Monday and it's now Thursday.
+Agent: Okay. Can I have your tracking number?
+Customer: It's PP-993-2210.
+Agent: I see it. It's stuck at the Hamburg depot because of a sorting delay.
+Customer: When will it arrive then?
+Agent: It should be delivered tomorrow. I've updated the delivery priority.
+Customer: Okay, I hope so. That's a bit annoying though.
+Agent: Yes. Anything else?
+Customer: No.
+Agent: Okay, goodbye.

@@ -1,0 +1,12 @@
+# Title: Laptop warranty claim – unresolved
+# Agent: Daniel
+Agent: Hello, Daniel speaking.
+Customer: Hi, my laptop screen stopped working, it's still under warranty. I want it repaired.
+Agent: Okay. What's the serial number?
+Customer: SN-4471-AX.
+Agent: Hmm, the system isn't loading the warranty info right now. I can't help with that at the moment.
+Customer: So what should I do? I need the laptop for work.
+Agent: You can try again later, maybe tomorrow.
+Customer: That's really disappointing. Can't you open a ticket or something?
+Agent: I have no idea when the system will be back. Just try again later.
+Customer: Fine.

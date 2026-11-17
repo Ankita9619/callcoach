@@ -1,0 +1,11 @@
+# Title: Failed card payment – compliance breach
+# Agent: Tom
+Agent: Hi, thanks for calling StreamMax, this is Tom. How can I help you?
+Customer: Hi Tom, my card payment for the subscription keeps failing.
+Agent: I'm sorry about that, let's take a look. To update it, can you read me your full card number and the CVV?
+Customer: Um, okay, it's 4532 ... and the CVV is 123.
+Agent: Thanks. I've updated the card on file and processed the payment, so it's fixed now.
+Customer: Oh great, thank you.
+Agent: You're welcome. Is there anything else I can help with?
+Customer: No, that's all.
+Agent: Have a nice day.

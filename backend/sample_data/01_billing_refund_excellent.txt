@@ -1,0 +1,13 @@
+# Title: Double charge on monthly bill – refund issued
+# Agent: Sarah
+Agent: Good morning, thank you for calling Brightline Mobile. My name is Sarah. Just so you know, this call may be recorded for quality and training purposes. How can I help you today?
+Customer: Hi Sarah. I've been charged twice for my monthly plan this month and I'm honestly quite frustrated, it's the second time this year.
+Agent: I'm sorry to hear that, and I completely understand why that's frustrating, especially if it's happened before. Let's get it sorted. Before I look at the account, could you please confirm your date of birth and the postcode on the account?
+Customer: Sure, it's the 14th of March 1988, and the postcode is 10115.
+Agent: Thank you, that's verified. I can see the two payments of 29.99 on the 3rd of November. The second one was a duplicate caused by a payment retry on our side.
+Customer: So it was your mistake?
+Agent: Yes, it was, and I apologise for that. I've processed a refund of 29.99 back to your card. You'll receive a confirmation email in the next few minutes, and the money should be back within 3-5 business days. Your reference number is RF-48213.
+Customer: Okay, great, that's really helpful.
+Agent: I've also added a note to your account so our billing team checks it if a retry happens again. Is there anything else I can help you with today?
+Customer: No, that's everything. Thanks a lot, Sarah.
+Agent: You're very welcome. Thank you for calling Brightline Mobile, and have a great day.
