@@ -8,7 +8,7 @@ AI-assisted QA scoring for customer-service calls. Upload or paste a call transc
 
 | Stage | What | State |
 |---|---|---|
-| 1 | FastAPI backend, scoring (mock + LLM with fallback), tests | in progress |
+| 1 | FastAPI backend, scoring (mock + LLM with fallback), tests, backend CI | in review |
 | 2 | React Router 7 dashboard | planned |
 | 3 | Docker Compose, CI, Prometheus/Grafana | planned |
 
